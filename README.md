@@ -1,1 +1,1 @@
-# kratos-week1
+# kratos
